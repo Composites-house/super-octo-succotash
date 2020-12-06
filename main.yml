@@ -1,0 +1,1 @@
+$ dig _github-challenge-AMRIKINSKY.composites-house.com +nostats +nocomments +nocmd TXT
